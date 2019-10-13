@@ -4,7 +4,7 @@
 學校：東吳大學巨量資料管理學院
 
 
-# [Python](# Python)  
+# [Python](#Python)  
 # R
 # Leecode 
 ----------
