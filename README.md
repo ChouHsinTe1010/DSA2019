@@ -12,6 +12,6 @@
 about Python
 ```python
 a = [1, 2, 3, 4]
-print(a)
+print(a) #print
 ```
 [1, 2, 3, 4]
