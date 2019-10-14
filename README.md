@@ -4,11 +4,11 @@
 學校：東吳大學巨量資料管理學院
 
 
-# [Python](#Python)  
+# [Linked List](#Linked List)  
 # R
 # Leecode 
 ----------
-# **Python**
+# **Linked List**
 about Python
 ```python
 a = [1, 2, 3, 4]
