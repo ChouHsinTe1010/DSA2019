@@ -5,8 +5,9 @@
 
 
 # [Linked List](#LinkedList) 
+# [homework]()
 # R
-# Leecode 
+# Leedcode 
 ----------
 # **LinkedList**
 **Linked List簡介**</br>
