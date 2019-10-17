@@ -6,7 +6,7 @@
 
 # [homework](https://github.com/ChouHsinTe1010/DSA2019/tree/master/homework)
 ### [1.流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/quick%20sort.png)
-### [2.程式碼]()
+### [2.程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/quick%20sort.py)
 # [Linked List](#LinkedList) 
 # [Stack&Queue](#Stack&Queue)
 # R
