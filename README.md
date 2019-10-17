@@ -6,7 +6,7 @@
 
 # [homework](https://github.com/ChouHsinTe1010/DSA2019/tree/master/homework)
 # [Linked List](#LinkedList) 
-# [stack Queue](#Stack&Queue)
+# [Stack&Queue](#Stack&Queue)
 # R
 # Leedcode 
 ----------
