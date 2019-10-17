@@ -5,7 +5,7 @@
 
 
 # [Linked List](#LinkedList) 
-[homework](https://github.com/ChouHsinTe1010/DSA2019/tree/master/homework）
+# [homework](https://github.com/ChouHsinTe1010/DSA2019/tree/master/homework)
 # R
 # Leedcode 
 ----------
