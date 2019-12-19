@@ -50,23 +50,7 @@ class Graph:
             
         
     
-        
 
-
-g=Graph()
-g.addEdge("A","B")
-g.addEdge("A","D")
-g.addEdge("B","C")
-g.addEdge("B","F")
-g.addEdge("C","E")
-g.addEdge("C","G")
-g.addEdge("D","F")
-g.addEdge("E","B")
-g.addEdge("E","F")
-g.addEdge("F","A")
-g.addEdge("G","E")
-print(g.BFS("G"))
-print(g.DFS("G"))
 
 
 
