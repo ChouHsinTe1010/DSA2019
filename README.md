@@ -43,25 +43,32 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ## Week3
 ### Stack&Queue
 ## Week4
-
+### Insertion sort
 ## Week5
-
- 
+### Quick sort 
 ## Week6
-
+### Heap sort
 ## Week7
-
+### Merge sort
 ## Week8
-
+### Binary Tree
 ## Week9
-
+### Binary Search Tree
 ## Week10
+### Red Black Tree
 ## Week11
+### Hash Table
 ## Week12
+### BFS
 ## Week13
+### DFS
 ## Week14
+### MST-Kruskal
 ## Week15
+### Shortest_path-Dijkstra
 ## Week16
+- review
 ## Week17
+- final exam
 ## Week18
-
+- no class
