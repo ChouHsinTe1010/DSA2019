@@ -4,7 +4,7 @@
 學校：東吳大學巨量資料管理學院
 
 # 作業集
-## [HW1](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW2)
+## [HW1](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW1)
 ### [1.流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quick%20sort.png)
 ### [2.程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quicksort.ipynb)
 ### [3.測試結果](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/QuickSort測試.png)
