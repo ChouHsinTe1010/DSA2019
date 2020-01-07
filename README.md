@@ -3,17 +3,33 @@
 我是周欣德</br>
 學校：東吳大學巨量資料管理學院
 
-
-# [homework](https://github.com/ChouHsinTe1010/DSA2019/tree/master/homework)
-## [Quicksort](https://github.com/ChouHsinTe1010/DSA2019/tree/master/homework/Quicksort)
+# 作業集
+## [HW1](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW2)
+### [1.流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quick%20sort.png)
+### [2.程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quicksort.ipynb)
+### [3.測試結果](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/QuickSort測試.png)
 ## [HW2](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW2)
 ### [1.流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quick%20sort.png)
 ### [2.程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quicksort.ipynb)
 ### [3.測試結果](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/QuickSort測試.png)
-# [Linked List](#LinkedList) 
-# [Stack&Queue](#Stack&Queue)
+## [HW3](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW3)
+### [1.流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quick%20sort.png)
+### [2.程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quicksort.ipynb)
+### [3.測試結果](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/QuickSort測試.png)
+## [HW4](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW4)
+### [1.流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quick%20sort.png)
+### [2.程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quicksort.ipynb)
+### [3.測試結果](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/QuickSort測試.png)
+## [HW5](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW5)
+### [1.流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quick%20sort.png)
+### [2.程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quicksort.ipynb)
+### [3.測試結果](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/QuickSort測試.png)
+## [HW6](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW6)
+### [1.流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quick%20sort.png)
+### [2.程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/quicksort.ipynb)
+### [3.測試結果](https://github.com/ChouHsinTe1010/DSA2019/blob/master/homework/Quicksort/QuickSort測試.png)
 # R
-# Leedcode 
+# Leetcode 
 ----------
 # 資料結構與演算法課程內容
 ## Week1
