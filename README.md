@@ -68,11 +68,11 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ### Quick sort 
 
 **時間複雜度**</br>
-|      |quicksort時間複雜度 |
+|      |quicksort時間複雜度          |
 |------|:-------------------------:|                  
-|Best time|O(nlog n)|
-|Average time|O(nlog n)|
-|wrost time|O(n2)|
+|Best time|O(nlog n)               |
+|Average time|O(nlog n)            |
+|wrost time|O(n2)                  |
 ## Week6
 ### Heap sort
 ## Week7
