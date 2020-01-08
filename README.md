@@ -84,14 +84,14 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ## Week6
 ### Heap sort
 
-***定義***</br>
+**定義**</br>
 使用heap這種資料結構所設計的一種排序演算法。heap是一個近似完全二元樹的結構，並同時滿足heap的性質：即子節點的鍵值或索引總是小於（或者大於）它的父節點。</br>
-***建立步驟：***</br>
+**建立步驟：**</br>
 - 將所有數儲存到heap中
 - 取出root，與子結點相比較
 - 重新排序
 - 直到heap成遞降次序</br>
-***流程圖***</br>
+**流程圖**</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort1.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort2.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort3.png)
@@ -118,9 +118,16 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ### Binary Tree
 ## Week9
 ### Binary Search Tree
-***流程圖***</br>
+**流程圖**</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST.png)</br>
+搜尋功能
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Search.png)</br>
+**新增insert**
+1.先判斷是有root
+2.要插入的值和root比較，如果較小的話會往左半部，而如果較大的話則往右半部
+3.繼續往下執行，會在遇到空值可以填入的時候停止。
+***比較特別的時候是遇到重複的數，會先有一個暫存的位置，再相接。***
+
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Insert.png)</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Delete.png)</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Modify.png)</br>
