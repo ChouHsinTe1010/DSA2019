@@ -105,7 +105,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 |Average Time|O(nlog n)|
 |Wrost Time  |O(nlog n)|
 ## Week7
-### Merge sort
+### Merge sort</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/mergesort.png)</br>
 **時間複雜度**</br>
 
