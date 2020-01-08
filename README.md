@@ -91,7 +91,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 - 取出root，與子結點相比較
 - 重新排序
 - 直到heap成遞降次序</br>
-***流程圖***
+***流程圖***</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort1.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort2.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort3.png)
@@ -118,6 +118,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ### Binary Tree
 ## Week9
 ### Binary Search Tree
+***流程圖***</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Search.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Insert.png)
@@ -126,12 +127,23 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ## Week10
 ### Red Black Tree
 ## Week11
-### Hash Table 
+### Hash Table
+Hash function 老師提過好像每個人的身分證字號，具有唯一性。 </br>
+***性質***</br>
+- 運算速度快
+- 不可逆性：無法從雜湊值推回原本的資料是什麼
+- 如果兩個雜湊值是不相同的（根據同一函式），那麼這兩個雜湊值的原始輸入也是不相同的。
+- 如果兩個雜湊值是相同的（根據同一函式），那麼這兩個雜湊值的原始輸入不一定是相同的。
+- 即便輸入非常大的數據（key長度不同），輸出數值的長度都一樣長。
+***流程圖***</br>
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/hash%20table.png)
 ## Week12
 ### BFS
+***流程圖***</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BFS%20VS%20DFS-BFS.png)
 ## Week13
 ### DFS
+***流程圖***</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BFS%20VS%20DFS-DFS.png)
 
 ## Week14
