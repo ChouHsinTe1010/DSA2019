@@ -63,7 +63,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 
 - 從尚未排序數列取出一元素。
 - 由後往前和已排序數列元素比較，直到遇到不大於自己的元素並插入此元素之後；若都沒有則插入在最前面。
-- 重複以上動作直到全部數列處理完成。
+- 重複以上動作直到全部數列處理完成。</br>
 **時間複雜度**</br>
 
 |      |Quick sort 時間複雜度        |
@@ -83,21 +83,21 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 |Wrost Time  |O(n^2)|
 ## Week6
 ### Heap sort
-**時間複雜度**</br>
+
 ***定義***
-使用heap這種資料結構所設計的一種排序演算法。heap是一個近似完全二元樹的結構，並同時滿足heap的性質：即子節點的鍵值或索引總是小於（或者大於）它的父節點。
+使用heap這種資料結構所設計的一種排序演算法。heap是一個近似完全二元樹的結構，並同時滿足heap的性質：即子節點的鍵值或索引總是小於（或者大於）它的父節點。</br>
 ***建立步驟：***
 - 將所有數儲存到heap中
 - 取出root，與子結點相比較
 - 重新排序
-- 直到heap成遞降次序
+- 直到heap成遞降次序</br>
 ***流程圖***
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort1.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort2.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort3.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort4.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort5.png)
-
+**時間複雜度**</br>
 
 |      |Heap sort 時間複雜度        |
 |------|:-------------------------:|                 
