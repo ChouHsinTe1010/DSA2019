@@ -96,7 +96,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort2.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort3.png)
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort4.png)
-![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort5.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort5.png)</br>
 **時間複雜度**</br>
 
 |      |Heap sort 時間複雜度        |
@@ -106,7 +106,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 |Wrost Time  |O(nlog n)|
 ## Week7
 ### Merge sort
-![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/mergesort.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/mergesort.png)</br>
 **時間複雜度**</br>
 
 |      |Merge sort 時間複雜度        |
@@ -119,11 +119,11 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ## Week9
 ### Binary Search Tree
 ***流程圖***</br>
-![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST.png)
-![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Search.png)
-![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Insert.png)
-![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Delete.png)
-![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Modify.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST.png)</br>
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Search.png)</br>
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Insert.png)</br>
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Delete.png)</br>
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Modify.png)</br>
 ## Week10
 ### Red Black Tree
 ## Week11
