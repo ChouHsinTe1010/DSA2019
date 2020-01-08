@@ -42,6 +42,21 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 |缺點   |因指標斷裂資料就遺失 |大部分的空間被浪費|
 ## Week3
 ### Stack&Queue
+**Stack功能：**</br>
+- 存取數據的方式為「後進先出」
+- Push :將資料放入
+- Pop :把「最上面」的資料移除
+
+**Stack實現方法：**</br>
+- DFS(深度優先搜尋)
+
+**Queue功能**</br>
+- 存取數據的方式為「先進先出」
+- Push :將資料從「後方」放入，又稱之enqueue
+- Pop :把「最下面」的資料移除又稱之dequeue
+
+**Stack實現方法：**</br>
+- BFS(廣度優先搜尋)
 ## Week4
 ### Insertion sort
 ## Week5
