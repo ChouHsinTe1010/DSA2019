@@ -106,6 +106,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 |Wrost Time  |O(nlog n)|
 ## Week7
 ### Merge sort
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/mergesort.png)
 **時間複雜度**</br>
 
 |      |Merge sort 時間複雜度        |
@@ -117,14 +118,22 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ### Binary Tree
 ## Week9
 ### Binary Search Tree
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Search.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Insert.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Delete.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Modify.png)
 ## Week10
 ### Red Black Tree
 ## Week11
 ### Hash Table 
 ## Week12
 ### BFS
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BFS%20VS%20DFS-BFS.png)
 ## Week13
 ### DFS
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BFS%20VS%20DFS-DFS.png)
+
 ## Week14
 ### MST-Kruskal
 ## Week15
