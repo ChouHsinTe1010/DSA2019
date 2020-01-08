@@ -120,16 +120,26 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ### Binary Search Tree
 **流程圖**</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST.png)</br>
-搜尋功能
+**搜尋search**
+1.搜尋方式如下，一開始比大小，然後再分別向下或是向左移動。</br>
+2.直到找到值。</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Search.png)</br>
 **新增insert**
-1.先判斷是有root
-2.要插入的值和root比較，如果較小的話會往左半部，而如果較大的話則往右半部
-3.繼續往下執行，會在遇到空值可以填入的時候停止。
-***比較特別的時候是遇到重複的數，會先有一個暫存的位置，再相接。***
-
+1.先判斷是有root</br>
+2.要插入的值和root比較，如果較小的話會往左半部，而如果較大的話則往右半部</br>
+3.繼續往下執行，會在遇到空值可以填入的時候停止。</br>
+***比較特別的時候是遇到重複的數，會先有一個暫存的位置，再相接。***</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Insert.png)</br>
+**刪除Delete**
+1.主要有4種情形，分別為無子節點、一個左子節點、一個右子節點以及兩個子節點。一個左子節點最複雜。因為會考慮到重複的數值。</br>
+2.無子節點-只需要直接刪除，不需考慮其他狀況。</br>
+3.一個右子節點-刪除後，將子節點往上移動。</br>
+4.一個左子節點-刪除後，將子節點往上。但是有可能會遇到重複的情形。</br>
+5.兩個子節點-考慮左側選取最大值，右側則選取最小值。</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Delete.png)</br>
+**修改Modify**
+1.運用Delete、Insert兩個概念結合。</br>
+2.先Delete再Insert。</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Modify.png)</br>
 ## Week10
 ### Red Black Tree
