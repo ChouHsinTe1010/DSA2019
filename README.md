@@ -68,10 +68,12 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ### Quick sort 
 
 **時間複雜度**</br>
-|      |Linked List                |
+
+|      |Quick sort 時間複雜度        |
 |------|:-------------------------:|                 
-|優點   |可以非連續</br>可動態增加、刪除空間</br> |
-|缺點   |因指標斷裂資料就遺失 |
+| Best time  |O(nlog n) |
+|Average Time|O(nlog n)|
+|Wrost Time  |O(n2)|
 ## Week6
 ### Heap sort
 ## Week7
@@ -83,7 +85,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ## Week10
 ### Red Black Tree
 ## Week11
-### Hash Table
+### Hash Table 
 ## Week12
 ### BFS
 ## Week13
