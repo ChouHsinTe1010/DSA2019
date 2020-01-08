@@ -84,6 +84,12 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ## Week6
 ### Heap sort
 **時間複雜度**</br>
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort1.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort2.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort3.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort4.png)
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/heapsort5.png)
+
 
 |      |Heap sort 時間複雜度        |
 |------|:-------------------------:|                 
