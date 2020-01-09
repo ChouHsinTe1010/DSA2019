@@ -20,7 +20,7 @@ if xs[0]: (如果xs內容存在)
 ### EX3:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No3.png)
 ```
-選哪個效率最高，選項1的函式最為精簡
+python語法中，會先處理==，故只有C和別人不同
 ```
 ### EX4:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No4.png)
@@ -39,13 +39,13 @@ if xs[0]: (如果xs內容存在)
 ```
 ### EX7:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No7.png)
-```
-選哪個效率最高，選項1的函式最為精簡
+```題目要求如何操作排序一個arr</br>
+由小排到大，有設定for迴圈跑n（n為arr數列的長度），也設定停下的狀況。
 ```
 ### EX8:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No8.png)
 ```
-選哪個效率最高，選項1的函式最為精簡
+把10進位整數轉換成16進位
 ```
 ### EX9:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No9.png)
