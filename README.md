@@ -147,6 +147,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Modify.png)</br>
 ## Week10
 ### Red Black Tree
+![](https://www.youtube.com/watch?v=rcDF8IqTnyI&feature=emb_title)
 ## Week11
 ### Hash Table
 Hash function 老師提過好像每個人的身分證字號，具有唯一性。 </br>
@@ -171,7 +172,7 @@ Hash function 老師提過好像每個人的身分證字號，具有唯一性。
 ### MST-Kruskal 
 ## Week15
 ### Shortest_path-Dijkstra
-![](https://www.youtube.com/watch?v=rcDF8IqTnyI&feature=emb_title)
+
 ## Week16
 - review
 ## Week17
