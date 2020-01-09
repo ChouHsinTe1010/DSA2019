@@ -7,6 +7,7 @@
 # 作業集
 ## [HW1](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW1)
 ### [1.quicksort程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/HW1/quick%20sort.py)
+### [1.quicksort學習歷程](https://github.com/ChouHsinTe1010/DSA2019/blob/master/HW1/quick%20sortmv學習歷程.ipynb)
 ## [HW2](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW2)
 ### [1.heapsort流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/HW2/Heap%20Sort%20%E6%B5%81%E7%A8%8B%E5%9C%96%26%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
 ### [2.mergesort流程圖](https://github.com/ChouHsinTe1010/DSA2019/blob/master/HW2/Merge%20Sort%E6%B5%81%E7%A8%8B%E5%9C%96%26%20%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.ipynb)
@@ -146,8 +147,7 @@ Linked list(連結串列)是一種常見的資料結構，其使用node(節點)�
 2.先Delete再Insert。</br>
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BST%20Modify.png)</br>
 ## Week10
-### Red Black Tree
-![](https://www.youtube.com/watch?v=rcDF8IqTnyI&feature=emb_title)
+### [Red Black Tree](https://www.youtube.com/watch?v=rcDF8IqTnyI&feature=emb_title)
 ## Week11
 ### Hash Table
 Hash function 老師提過好像每個人的身分證字號，具有唯一性。 </br>
