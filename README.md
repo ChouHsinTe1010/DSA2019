@@ -170,7 +170,8 @@ Hash function 老師提過好像每個人的身分證字號，具有唯一性。
 ## Week14
 ### MST-Kruskal 
 ## Week15
-### Shortest_path-Dijkstra(https://www.youtube.com/watch?v=rcDF8IqTnyI&feature=emb_title)
+### Shortest_path-Dijkstra
+![](https://www.youtube.com/watch?v=rcDF8IqTnyI&feature=emb_title)
 ## Week16
 - review
 ## Week17
