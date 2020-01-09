@@ -168,9 +168,9 @@ Hash function 老師提過好像每個人的身分證字號，具有唯一性。
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/BFS%20VS%20DFS-DFS.png)
 
 ## Week14
-### MST-Kruskal
+### MST-Kruskal 
 ## Week15
-### Shortest_path-Dijkstra
+### Shortest_path-Dijkstra(https://www.youtube.com/watch?v=rcDF8IqTnyI&feature=emb_title)
 ## Week16
 - review
 ## Week17
