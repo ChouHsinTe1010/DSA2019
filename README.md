@@ -1,9 +1,9 @@
 # About Me
 <img src='tenor.gif'>
 我是周欣德</br>
-學校：東吳大學巨量資料管理學院
-程式語言：
-
+學校：東吳大學巨量資料管理學院</br>
+程式語言：python R
+[上課內容]（# 資料結構與演算法課程內容）
 # 作業集
 ## [HW1](https://github.com/ChouHsinTe1010/DSA2019/tree/master/HW1)
 ### [1.quicksort程式碼](https://github.com/ChouHsinTe1010/DSA2019/blob/master/HW1/quick%20sort.py)
