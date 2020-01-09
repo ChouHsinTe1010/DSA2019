@@ -25,12 +25,12 @@ python語法中，會先處理==，故只有C和別人不同
 ### EX4:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No4.png)
 ```
-
+//為取整數的
 ```
 ### EX5:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No5.png)
 ```
-
+n.bit_length()為python語法求二進位的語法
 ```
 ### EX6:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No6.png)
