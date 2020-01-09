@@ -14,19 +14,46 @@ if xs[0]: (如果xs內容存在)
 ```
 ### EX2:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No2.png)
+```
+選哪個效率最高，選項1的函式最為精簡
+```
 ### EX3:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No3.png)
+```
+選哪個效率最高，選項1的函式最為精簡
+```
 ### EX4:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No4.png)
+```
+選哪個效率最高，選項1的函式最為精簡
+```
 ### EX5:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No5.png)
+```
+選哪個效率最高，選項1的函式最為精簡
+```
 ### EX6:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No6.png)
+```
+求二進位，n.bit_length()為python語法求二進位的方式
+```
 ### EX7:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No7.png)
+```
+選哪個效率最高，選項1的函式最為精簡
+```
 ### EX8:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No8.png)
+```
+選哪個效率最高，選項1的函式最為精簡
+```
 ### EX9:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No9.png)
+```
+選哪個效率最高，選項1的函式最為精簡
+```
 ### EX10:
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/codesignal%20No10.png)
+```
+選哪個效率最高，選項1的函式最為精簡
+```
