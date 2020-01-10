@@ -20,6 +20,7 @@ list 的 sort 方法返回的是对已存在的进行操作，無返回值，而
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/242%23_Valid%20Anagram_06170145.png)
 ### 441_Arranging Coins</br>
 題目：排列硬幣</br>
+
 [原理說明](/Users/chouhsinte/Downloads/Arrange Coins.png)
 一開始我在第六行輸入有誤
 ![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/441%23_Arranging%20Coins_06170145-1.png)
