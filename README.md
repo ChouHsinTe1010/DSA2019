@@ -37,7 +37,7 @@
 ----------
 # 資料結構與演算法課程內容
 ## Week1
-
+上課介紹
 ## Week2
 ### **LinkedList**
 **Linked List簡介**</br>
@@ -172,9 +172,12 @@ Hash function 老師提過好像每個人的身分證字號，具有唯一性。
 
 ## Week14
 ### MST-Kruskal 
+這是老師上課所教的Kruskal做圖
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/Krustal.jpg)
 ## Week15
 ### Shortest_path-Dijkstra
-
+這是老師上課所教的Dijkstra做圖
+![](https://github.com/ChouHsinTe1010/DSA2019/blob/master/picture/Dijkstra.jpeg)
 ## Week16
 - review
 ## Week17
